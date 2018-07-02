@@ -1,0 +1,223 @@
+[
+{
+	"cuvant":"Johann Wolfgang Goethe",
+	"hint1":"Nationalitatea este: germana",
+	"hint2":"He wrote: Wilhelm Meister's Apprenticeship"
+},
+{
+	"cuvant":"Ernest Hemingway",
+	"hint1":"Nationalitatea este: americana",
+	"hint2":"he wrote: The Old Man and the Sea"
+},
+{
+	"cuvant":"Truman Capote",
+	"hint1":"Nationalitatea este: americana",
+	"hint2":"he wrote: The Grass Harp"
+},
+{
+	"cuvant":"John Galsworthy",
+	"hint1":"Nationalitatea este: britanica",
+	"hint2":"he wrote: From the Four Winds"
+},
+{
+	"cuvant":"Aldous Huxley",
+	"hint1":"Nationalitatea este: britanica",
+	"hint2":"he wrote: The Genius and the Goddess"
+},
+{
+	"cuvant":"Virginia Woolf",
+	"hint1":"Nationalitatea este: britanica",
+	"hint2":"She wrote: Mrs Dalloway"
+},
+{
+	"cuvant":"Roger Martin du Gard",
+	"hint1":"Nationalitatea este: franceza",
+	"hint2":"He wrote:The Thibaults"
+},
+{
+	"cuvant":"Johannes Vilhelm Jensen",
+	"hint1":"Nationalitatea este: daneza",
+	"hint2":"he wrote: The Glacier, A New Myth Of The First Man"
+},
+{
+	"cuvant":"Salvatore Quasimodo",
+	"hint1":"Nationalitatea este: italiana",
+	"hint2":"He wrote: Agrigentum Road"
+},
+{
+	"cuvant":"William Golding",
+	"hint1":"Nationalitatea este: britanica",
+	"hint2":"He wrote: Lord of the Flies"
+},
+{
+	"cuvant":"Gunter Grass",
+	"hint1":"Nationalitatea este: germana",
+	"hint2":"he wrote: Cat and Mouse"
+},
+{
+	"cuvant":"John Steinbeck",
+	"hint1":"Nationalitatea este: americana",
+	"hint2":"He wrote: Of Mice and Men"
+},
+{
+	"cuvant":"Pablo Neruda",
+	"hint1":"Nationalitatea este: chiliana",
+	"hint2":"He wrote: The Sea and the Bells"
+},
+{
+	"cuvant":"Mario Vargas Llosa",
+	"hint1":"Nationalitatea este: peruana",
+	"hint2":"He wrote: The War of the End of the World"
+},
+{
+	"cuvant":"Knut Hamsun",
+	"hint1":"Nationalitatea este: norvegiana",
+	"hint2":"He wrote: Under the Autumn Star"
+},
+{
+	"cuvant":"Jacinto Benavente",
+	"hint1":"Nationalitatea este: spaniola",
+	"hint2":"He wrote: High Society"
+},
+
+{
+	"cuvant":"Samuel Beckett",
+	"hint1":"Nationalitatea este: irlandeza",
+	"hint2":"He wrote: Dream of Fair to Middling Women"
+},
+{
+	"cuvant":"Odysseas Elytis",
+	"hint1":"Nationalitatea este: greaca",
+	"hint2":"He wrote: The Light Tree And The Fourteenth Beauty "
+},
+// {
+// 	"cuvant":"Mihail Solohov",
+// 	"hint1":"Nationalitatea este: rusa",
+// 	"hint2":"A scris: 'Donul liniștit'"
+// },
+{
+	"cuvant":"Rudyard Kipling",
+	"hint1":"Nationalitatea este: britanica",
+	"hint2":"He wrote: The Jungle Book"
+},
+{
+	"cuvant":"Mario Vargas Llosa",
+	"hint1":"Nationalitatea este: peruana",
+	"hint2":"He wrote: The War of the End of the World"
+}
+// {
+// 	"cuvant":"Selma Lagerlof",
+// 	"hint1":"Nationalitatea este: suedeza",
+// 	"hint2":"A scris: 'Impăratul Portugaliei'"
+// },
+// {
+// 	"cuvant":"Rabindranath Tagore",
+// 	"hint1":"Nationalitatea este: indiana",
+// 	"hint2":"A scris: 'Caminul și lumea'"
+// },
+// {
+// 	"cuvant":"Anatole France",
+// 	"hint1":"Nationalitatea este: franceza",
+// 	"hint2":"A scris: 'Inelul de ametist'"
+// },
+// {
+// 	"cuvant":"Sigrid Undset",
+// 	"hint1":"Nationalitatea este: norvegiana",
+// 	"hint2":"A scris: 'Punctul de vedere al unei femei'"
+// },
+// {
+// 	"cuvant":"Thomas Mann",
+// 	"hint1":"Nationalitatea este: germana",
+// 	"hint2":"A scris: 'Dezordine si suferinta timpurie'"
+// },
+// {
+// 	"cuvant":"Hermann Hesse",
+// 	"hint1":"Nationalitatea este: elvetiana",
+// 	"hint2":"A scris: 'Siddhartha'"
+// },
+// {
+// 	"cuvant":"William Faulkner",
+// 	"hint1":"Nationalitatea este: americana",
+// 	"hint2":"A scris: 'Zgomotul și furia'"
+// },
+// {
+// 	"cuvant":"Bertrand Russell",
+// 	"hint1":"Nationalitatea este: britanica",
+// 	"hint2":"A scris: 'Eseuri sceptice'"
+// },
+// {
+// 	"cuvant":"Heinrich Boll",
+// 	"hint1":"Nationalitatea este: germana",
+// 	"hint2":"A scris: 'Opiniile unui clovn'"
+// },
+// {
+// 	"cuvant":"Nadine Gordimer",
+// 	"hint1":"Nationalitatea este: sud-africana",
+// 	"hint2":"A scris: 'Nimeni care să mă insoteasca'"
+// },
+// {
+// 	"cuvant":"Camilo Jose Cela",
+// 	"hint1":"Nationalitatea este: spaniola",
+// 	"hint2":"A scris: 'Familia lui Pascal Duarte'"
+// },
+// {
+// 	"cuvant":"Gerhart Hauptmann",
+// 	"hint1":"Nationalitatea este: belgiana",
+// 	"hint2":"A scris: 'Oameni singuratici'"
+// },
+// {
+// 	"cuvant":"George Bernard Shaw",
+// 	"hint1":"Nationalitatea este: irlandeza",
+// 	"hint2":"A scris: 'Casa inimilor sfăramate'"
+// },
+// {
+// 	"cuvant":"Ivan Bunin",
+// 	"hint1":"Nationalitatea este: rusa",
+// 	"hint2":"A scris: 'Casa de la drum'"
+// },
+// {
+// 	"cuvant":"Luigi Pirandello",
+// 	"hint1":"Nationalitatea este: italiana",
+// 	"hint2":"A scris: 'Iubiri fără iubire'"
+// },
+// {
+// 	"cuvant":"Toni Morrison",
+// 	"hint1":"Nationalitatea este: americana",
+// 	"hint2":"A scris: 'Cantecul lui Solomon'"
+// },
+// {
+// 	"cuvant":"Grazia Deledda",
+// 	"hint1":"Nationalitatea este: italiana",
+// 	"hint2":"A scris: 'Bătrânul din munți'"
+// },
+// {
+// 	"cuvant":"Andre Gide",
+// 	"hint1":"Nationalitatea este: franceza",
+// 	"hint2":"A scris: 'Întoarcerea fiului risipitor'"
+// },
+// {
+// 	"cuvant":"Albert Camus",
+// 	"hint1":"Nationalitatea este: franceza",
+// 	"hint2":"A scris: 'Recviem pentru o călugăriță'"
+// },
+// {
+// 	"cuvant":"Herta Muller",
+// 	"hint1":"Nationalitatea este: romana",
+// 	"hint2":"A scris: 'Regele se-nclină și ucide'"
+// },
+// {
+// 	"cuvant":"Jean Marie Gustave Le Clezio",
+// 	"hint1":"Nationalitatea este: franceza",
+// 	"hint2":"A scris: 'Primavara și alte anotimpuri'"
+// },
+// {
+// 	"cuvant":"Saul Bellow",
+// 	"hint1":"Nationalitatea este: americana",
+// 	"hint2":"A scris: 'Darul lui Humboldt'"
+// },
+// {
+// 	"cuvant":"Gabriel Garcia Marquez",
+// 	"hint1":"Nationalitatea este: columbiana",
+// 	"hint2":"A scris: 'Generalul în labirintul sau'"
+// }
+]
